@@ -1,5 +1,5 @@
 # statistical-analysis-report
-Example of statistical analysis for my coursework as part of my degree 
+Example of statistical analysis for my 1st coursework as part of my degree 
 data was formatted as such
 class type      attendance week 1      attendance week 2
     ...               ...                   ...
